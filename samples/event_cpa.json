@@ -1,0 +1,60 @@
+[
+  {
+    "category": "얼굴라인",
+    "events": [
+      {
+        "hospital": {
+          "addr": "주소 1",
+          "name": "나나성형외과",
+          "short_addr": "강남구 강남대로"
+        },
+        "id": 11031,
+        "numerical_discounted_price": 100000,
+        "numerical_original_price": 200000,
+        "review_count": "100",
+        "review_rating": "5.4",
+        "isRectangle": true,
+        "thumbnail": "https://asset.goodoc.kr/images/event/banner/20201228/c3820483339ad7d02afd635b6ac8a565.jpg",
+        "title": "[굿닥단독]입술필러&입꼬리필러(무제한)♥",
+        "tags": ["여자들의 로망", "홀라인 허벅지"]
+      },
+      {
+        "hospital": {
+          "addr": "주소 1",
+          "name": "뽐클리닉",
+          "short_addr": "강남구 강남대로"
+        },
+        "id": 14299,
+        "numerical_discounted_price": 100000,
+        "numerical_original_price": 200000,
+        "review_count": "100",
+        "review_rating": "5.4",
+        "isRectangle": true,
+        "videoThumbnail": "https://s3.ap-northeast-2.amazonaws.com/asset.goodoc.kr/clinicmarket/02_%E1%84%86%E1%85%A9%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%89%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.mp4",
+        "title": "슈링크 100샷 2.9만원",
+        "tags": ["여자들의 로망", "홀라인 허벅지"]
+      }
+    ]
+  },
+  {
+    "category": "몸매라인",
+    "events": [
+      {
+        "hospital": {
+          "addr": "주소 1",
+          "name": "연세루다의원",
+          "short_addr": "강남구 압구정로10길"
+        },
+        "id": 13678,
+        "numerical_discounted_price": 390000,
+        "numerical_original_price": 700000,
+        "review_count": "100",
+        "review_rating": "5.4",
+        "isRectangle": true,
+        "thumbnail": "https://asset.goodoc.kr/images/event/banner/20201228/c3820483339ad7d02afd635b6ac8a565.jpg",
+        "title": "추가금액없는 지방추출주사 루다팻",
+        "tags": ["여자들의 로망", "홀라인 허벅지"]
+      }
+    ]
+  }
+]

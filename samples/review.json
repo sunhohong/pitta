@@ -1,0 +1,39 @@
+[
+  {
+    "targetId": "1111111",
+    "boardId": "2222221",
+    "categoryTitle": "몸매라인 > 몸매시술",
+    "image": "https://asset.goodoc.kr/board/picture/20210503/03ef3042f91620024447.jpg",
+    "videoThumbnail": "https://s3.ap-northeast-2.amazonaws.com/asset.goodoc.kr/clinicmarket/02_%E1%84%86%E1%85%A9%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%89%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.mp4",
+    "fileArray": [
+      {
+        "boardId": "2222221",
+        "fileName": "https://asset.goodoc.kr/board/picture/20210503/03ef3042f91620024447.jpg",
+        "id": "35626"
+      }
+    ],
+    "hospitalName": "hospital1",
+    "userName": "윤****",
+    "contents": "안녕안녕!!!",
+    "rateSum":3.2,
+    "regDate": "2021-05-03 06:47:28"
+  },
+  {
+    "targetId": "1111112",
+    "boardId": "2222222",
+    "categoryTitle": "몸매라인 > 몸매시술",
+    "image": "https://asset.goodoc.kr/board/picture/20210503/03ef3042f91620024447.jpg",
+    "fileArray": [
+      {
+        "boardId": "2222222",
+        "fileName": "https://asset.goodoc.kr/board/picture/20210503/03ef3042f91620024447.jpg",
+        "id": "35626"
+      }
+    ],
+    "hospitalName": "hospital2",
+    "userName": "강****",
+    "contents": "600씨씨주사맞고 효과 제대로 봄 \\n다른데 다 상담받아봤지만 \\n여기가 가성비 제일 좋은듯해서 선택\\n경과 지켜보고 추가로 더 맞을 예정 \\n\\n촉감도 만족스럽고 라인도 이뻐짐",
+    "rateSum":10,
+    "regDate": "2021-05-03 06:47:28"
+  }
+]

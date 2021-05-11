@@ -28,7 +28,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.5",
